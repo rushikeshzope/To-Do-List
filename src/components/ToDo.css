@@ -1,0 +1,19 @@
+.inputButton{
+    display: flex;
+    justify-content: center;
+}
+
+.input{
+    padding-left: 1vw;
+}
+
+.addTo{
+    margin-inline: 0.8vw;
+    margin-top: 0.2vh;
+}
+
+p{
+    font-size: 1.5vw;
+    font-weight: bold;
+    margin-bottom: -1px;
+}
